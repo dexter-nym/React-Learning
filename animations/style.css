@@ -11,21 +11,16 @@ body {
 
 .ball {
   width: 6rem;
-  height: 5rem;
+  /* height: 5rem; */
+  height: 6rem;
+  border-radius: 50%;
   position: absolute;
   top: 50%;
   left: 50%;
+  background-color: antiquewhite;
   transform: translate(-50%, -50%);
-  border-radius: 50%;
-  background-color: rgba(250, 235, 215, 0.904);
-  animation-name: bounce;
-  animation-duration: 0.4s;
-  animation-delay: 1s;
-  animation-iteration-count: infinite;
-  animation-direction: alternate;
-  animation-timing-function: ease-out;
 }
-.ball:after {
+/* .ball:after {
   content: "Ball";
   color: rgba(250, 235, 215, 0.904);
   font-size: 2rem;
@@ -47,7 +42,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: aliceblue;
-}
+} */
 
 @keyframes bounce {
   0% {
