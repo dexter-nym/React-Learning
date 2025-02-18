@@ -1,8 +1,18 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# React
+# Hooks - Special types of functions
+- Topic: useState
+- Topic: 2 way binding in react
+- Topic: Fragment <> </>
+- Topic: Topic Components
+- Topic: Props Drilling
+- Topic: Integrating API(using axios package)
+- Topic: React Router Dom (Routing in react)
+- Topic: Context API
+# Animations (In animation folder)
+- Topic: Basics of CSS animations After, Before
+https://www.youtube.com/watch?v=0u0luAUb4Yo&t=13s  3:21
+- Topic: GSAP, or GreenSock Animation Platform
+- Topic: Scroll Trigger (Scrolling animations)
+- Topic: Locomotive & Lenis library's
+- Topic: Swiper Js
+- Topic: Frammer Motion (Animations in react)

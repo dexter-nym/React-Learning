@@ -227,21 +227,23 @@
 // export default App;
 
 //✅⚠️ Topic Context API
-import { useContext } from "react";
-import { DataContext } from "./context/UserContext";
-import { ProductContext } from "./context/ProductContext";
+// import { useContext } from "react";
+// import { DataContext } from "./context/UserContext";
+// import { ProductContext } from "./context/ProductContext";
 
-const App = () => {
-  const data = useContext(DataContext);
-  const productData = useContext(ProductContext);
+// const App = () => {
+//   const data = useContext(DataContext);
+//   const productData = useContext(ProductContext);
 
-  return (
-    <div className="useContext">
-      <h1>This is App.jsx data : {data.username}</h1>
-      <h2>Product name : {productData.productName}</h2>
-      <h2>Product price : {productData.price}</h2>
-    </div>
-  );
-};
+//   return (
+//     <div className="useContext">
+//       <h1>This is App.jsx data : {data.username}</h1>
+//       <h2>Product name : {productData.productName}</h2>
+//       <h2>Product price : {productData.price}</h2>
+//     </div>
+//   );
+// };
 
-export default App;
+// export default App;
+
+//✅ 
